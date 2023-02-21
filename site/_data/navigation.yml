@@ -6,6 +6,4 @@ menu__settings:
     - title: ПРОЕКТЫ
       url: /projects/
     - title: О НАС
-      submenu:
-        - url: /about/
-          title: ''
+      url: /about/
