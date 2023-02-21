@@ -36,7 +36,10 @@ collections:
     permalink: /project/:slug
   testimonials:
     output: false
-
+  posts:
+    output: true
+    permalink: /blog/:slug
+    
 cloudcannon:
   collections:
     pages:
