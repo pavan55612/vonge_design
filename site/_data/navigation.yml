@@ -5,7 +5,7 @@ menu__settings:
       url: /
     - title: ПРОЕКТЫ
       url: /projects/
-    - title: О НАС
-      url: /about/
     - title: ЦЕНЫ
       url: /cost/
+    - title: О НАС
+      url: /about/
