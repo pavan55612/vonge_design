@@ -6,6 +6,6 @@ menu__settings:
     - title: ПРОЕКТЫ
       url: /projects/
     - title: ЦЕНЫ
-      url: /cost/
+      url: /price/
     - title: О НАС
       url: /about/
